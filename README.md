@@ -3,11 +3,11 @@ Fotos e slides de apresentação realizada no Microsoft Reactor em São Paulo-SP
 
 ---
 
-Título da Apresentação: **ACERTAR**
+Título da Apresentação: **.NET São Paulo: uma visão geral**
 
 Data: **20/03/2024 (quarta-feira)**
 
-Tópicos abordados: **.NET, C#, ASP.NET Core, Microsoft Azure, Kubernetes, Open Source, Comunidades Técnicas**
+Tópicos abordados: **o Meetup .NET São Paulo, .NET, C#, ASP.NET Core, Microsoft Azure, Kubernetes, Open Source, Comunidades Técnicas**
 
 Número de participantes: **55 pessoas**
 
@@ -17,11 +17,17 @@ Deixo aqui meus agradecimentos ao **Victor Temple** e à **Larissa Cyganski** pe
 
 E meu muito obrigado também aos amigos Walter Coan e Angelo Belchior pelas fotos tiradas durante o evento.
 
+Na pasta [**/img**](img/) estão fotos do evento e da minha apresentação.
+
 ---
 
-![Palestrando](img/audiencia.png)
+![Palestrando](img/r-01.jpg)
 
-![Palestrando](img/k-02.png)
+![Palestrando](img/r-02.jpg)
+
+![Palestrando](img/r-03.jpg)
+
+![Palestrando](img/r-04.jpg)
 
 ![Palestrando](img/publico.jpg)
 
