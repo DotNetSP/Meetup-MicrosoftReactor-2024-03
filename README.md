@@ -15,7 +15,7 @@ Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/victortemple_react
 
 Deixo aqui meus agradecimentos ao **Victor Temple** e à **Larissa Cyganski** pelo convite e oportunidade em participar como palestrante deste meetup que contou com a presença de funcionários da Microsoft, Microsoft MVPs, Tech Influencers e membros de empresas parceiras da Microsoft.
 
-E meu muito obrigado também aos amigos Walter Coan e Angelo Belchior pelas fotos tiradas durante o evento.
+E meu muito obrigado também aos amigos **Walter Coan (Microsoft MVP)** e **Angelo Belchior (Microsoft MVP)** pelas fotos tiradas durante o evento.
 
 Na pasta [**/img**](img/) estão fotos do evento e da minha apresentação.
 
